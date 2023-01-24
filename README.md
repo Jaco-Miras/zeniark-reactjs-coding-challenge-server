@@ -1,5 +1,5 @@
 Install dependencies:
-### npm install or yarn
+### `npm install or yarn`
 
 Start the server:
 ### `npm start`
